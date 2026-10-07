@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there, I'm Álvaro! 👋
 
-<!--
-**alvaro-aguilera/alvaro-aguilera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 2nd-year **Mathematical Engineering** student at *Universidad Complutense de Madrid (UCM)*. I am passionate about data analytics, algorithm design, and using mathematics to solve complex, real-world problems through code.
 
-Here are some ideas to get you started:
+#### 🛠️ Tech Stack & Tools
+* **Programming:** Python (OOP, Data Structures, Algorithms)
+* **Tools:** PyCharm, LaTeX, Git
+* **Interests:** Data Analysis, Mathematical Modeling, Route Optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌱 Currently Learning / Working On
+* Expanding my knowledge in advanced data structures and mathematical analysis.
+* Building a subway network routing solver using Python.
+
+#### 📫 How to reach me
+* **LinkedIn:** [Álvaro Aguilera Avilés](https://www.linkedin.com/in/álvaro-aguilera-avilés)
+* **Email:** alvaro.aguiles@gmail.com
